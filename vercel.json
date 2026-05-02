@@ -1,5 +1,6 @@
 {
   "buildCommand": "python build.py",
+  "outputDirectory": ".",
   "cleanUrls": true,
   "trailingSlash": false,
   "headers": [
